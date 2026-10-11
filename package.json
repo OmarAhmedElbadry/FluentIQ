@@ -1,0 +1,20 @@
+{
+  "name": "fluentiq",
+  "version": "1.0.0",
+  "description": "LinguaIQ is an API-ready Flutter foundation for adaptive, CEFR-aligned language assessment. It is deliberately assessment-only: there are no courses, lessons, or streak mechanics.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "firebase-admin": "^14.2.0"
+  }
+}
